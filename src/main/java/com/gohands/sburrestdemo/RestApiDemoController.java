@@ -1,7 +1,5 @@
 package com.gohands.sburrestdemo;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Optional;
 
 import org.springframework.http.HttpStatus;
